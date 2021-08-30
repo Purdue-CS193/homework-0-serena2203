@@ -21,7 +21,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-Data analytics process has some components that can help a variety of initiatives. Successful data analytics initiative will provide a clear picture of where you are, where you have been and where you should go.
+Data analytics process has some components that can help a variety of initiatives. 
+Successful data analytics initiative will provide a clear picture of where you are, where you have been and where you should go.
 
 
 
