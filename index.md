@@ -11,15 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# <Serena Gauri>'s First CS193 Homework
+  - I love my tech savy instructors who opened doors to new online platforms.
+  -I love the fact that I can learn tools that will be helpful in my career.
+  - The fact that our instructors were in our shoes will really help them relate to us.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 Data analytics process has some components that can help a variety of initiatives. 
 Successful data analytics initiative will provide a clear picture of where you are, where you have been and where you should go.
